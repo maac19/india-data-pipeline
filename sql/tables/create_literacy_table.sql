@@ -1,0 +1,23 @@
+CREATE TABLE literacy_data (
+    state BIGINT,
+    district BIGINT,
+    level TEXT,
+    name TEXT,
+    tru TEXT,
+    no_hh BIGINT,
+    tot_p BIGINT,
+    tot_m BIGINT,
+    tot_f BIGINT,
+    p_lit BIGINT,
+    m_lit BIGINT,
+    f_lit BIGINT,
+    p_ill BIGINT,
+    m_ill BIGINT,
+    f_ill BIGINT,
+    tot_work_p BIGINT,
+    tot_work_m BIGINT,
+    tot_work_f BIGINT,
+    non_work_p BIGINT,
+    non_work_m BIGINT,
+    non_work_f BIGINT
+);

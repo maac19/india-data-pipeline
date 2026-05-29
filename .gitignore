@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+.env
+
+data/raw_files/
+data/processed/
+
+logs/
+
+*.csv
+
+venv/
+
+dbt_packages/
+
+target/
