@@ -134,7 +134,6 @@ selected_literacy_columns = [
     'State',
     'District',
     'Level',
-    'Name',
     'TRU',
     'No_HH',
     'TOT_P',
